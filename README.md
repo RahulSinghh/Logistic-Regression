@@ -1,5 +1,4 @@
-# Logistic-Regression
-COC machine Learning Assign
-Epoch =100000
-Accuracy=96.84
-Alph=1e-1
+# LinearRegressionWS
+This is the content and code for the first lecture(linear regression) conducted by Community of coders VJTI in the machine learning (application oriented) series
+
+The tutorial can be seen in the ipython notebook
